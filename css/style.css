@@ -1,0 +1,11 @@
+html {
+    font-size: 16px;
+}
+
+.banner-section h1 {
+    font-size: 4rem;
+}
+
+.card img {
+    border-radius: 20px;
+}
